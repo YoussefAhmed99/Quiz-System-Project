@@ -1,0 +1,103 @@
+id,topic,sub_topic,text,option_1,option_2,option_3,option_4,correct_answer,creator
+1,Math,Algebra,What is the value of x in the equation 2x + 3 = 7? (v1),1,2,3,4,2,admin
+2,Science,Physics,What is the acceleration due to gravity on Earth? (v1),8.8 m/sï¿,9.8 m/sï¿,10.8 m/sï¿,7.8 m/sï¿,9.8 m/sï¿,admin
+3,History,Ancient,Who was the first emperor of Rome? (v1),Julius Caesar,Augustus,Nero,Caligula,Augustus,admin
+4,Computer Science,Programming,Which keyword is used to create a class in Java? (v1),function,define,class,new,class,admin
+5,Literature,Poetry,Who wrote 'The Raven'? (v1),Robert Frost,William Shakespeare,Edgar Allan Poe,Emily Dickinson,Edgar Allan Poe,admin
+6,Math,Geometry,What is the sum of interior angles of a triangle? (v1),90ï¿,180ï¿,270ï¿,360ï¿,180ï¿,admin
+7,Science,Chemistry,What is the chemical symbol for Gold? (v1),Au,Ag,Fe,Gd,Au,admin
+8,History,Modern,In which year did World War II end? (v1),1943,1944,1945,1946,1945,admin
+9,Computer Science,Networks,What does 'IP' stand for in networking? (v1),Internet Provider,Internet Protocol,Internal Protocol,Interface Protocol,Internet Protocol,admin
+10,Literature,Drama,Who is the tragic hero in Shakespeare's 'Macbeth'? (v1),Hamlet,Othello,Macbeth,Lear,Macbeth,admin
+11,Math,Algebra,What is the value of x in the equation 2x + 3 = 7? (v2),1,2,3,4,2,admin
+12,Science,Physics,What is the acceleration due to gravity on Earth? (v2),8.8 m/sï¿,9.8 m/sï¿,10.8 m/sï¿,7.8 m/sï¿,9.8 m/sï¿,admin
+13,History,Ancient,Who was the first emperor of Rome? (v2),Julius Caesar,Augustus,Nero,Caligula,Augustus,admin
+14,Computer Science,Programming,Which keyword is used to create a class in Java? (v2),function,define,class,new,class,admin
+15,Literature,Poetry,Who wrote 'The Raven'? (v2),Robert Frost,William Shakespeare,Edgar Allan Poe,Emily Dickinson,Edgar Allan Poe,admin
+16,Math,Geometry,What is the sum of interior angles of a triangle? (v2),90ï¿,180ï¿,270ï¿,360ï¿,180ï¿,admin
+17,Science,Chemistry,What is the chemical symbol for Gold? (v2),Au,Ag,Fe,Gd,Au,admin
+18,History,Modern,In which year did World War II end? (v2),1943,1944,1945,1946,1945,admin
+19,Computer Science,Networks,What does 'IP' stand for in networking? (v2),Internet Provider,Internet Protocol,Internal Protocol,Interface Protocol,Internet Protocol,admin
+20,Literature,Drama,Who is the tragic hero in Shakespeare's 'Macbeth'? (v2),Hamlet,Othello,Macbeth,Lear,Macbeth,admin
+21,Math,Algebra,What is the value of x in the equation 2x + 3 = 7? (v3),1,2,3,4,2,admin
+22,Science,Physics,What is the acceleration due to gravity on Earth? (v3),8.8 m/sï¿,9.8 m/sï¿,10.8 m/sï¿,7.8 m/sï¿,9.8 m/sï¿,admin
+23,History,Ancient,Who was the first emperor of Rome? (v3),Julius Caesar,Augustus,Nero,Caligula,Augustus,admin
+24,Computer Science,Programming,Which keyword is used to create a class in Java? (v3),function,define,class,new,class,admin
+25,Literature,Poetry,Who wrote 'The Raven'? (v3),Robert Frost,William Shakespeare,Edgar Allan Poe,Emily Dickinson,Edgar Allan Poe,admin
+26,Math,Geometry,What is the sum of interior angles of a triangle? (v3),90ï¿,180ï¿,270ï¿,360ï¿,180ï¿,admin
+27,Science,Chemistry,What is the chemical symbol for Gold? (v3),Au,Ag,Fe,Gd,Au,admin
+28,History,Modern,In which year did World War II end? (v3),1943,1944,1945,1946,1945,admin
+29,Computer Science,Networks,What does 'IP' stand for in networking? (v3),Internet Provider,Internet Protocol,Internal Protocol,Interface Protocol,Internet Protocol,admin
+30,Literature,Drama,Who is the tragic hero in Shakespeare's 'Macbeth'? (v3),Hamlet,Othello,Macbeth,Lear,Macbeth,admin
+31,Math,Algebra,What is the value of x in the equation 2x + 3 = 7? (v4),1,2,3,4,2,admin
+32,Science,Physics,What is the acceleration due to gravity on Earth? (v4),8.8 m/sï¿,9.8 m/sï¿,10.8 m/sï¿,7.8 m/sï¿,9.8 m/sï¿,admin
+33,History,Ancient,Who was the first emperor of Rome? (v4),Julius Caesar,Augustus,Nero,Caligula,Augustus,admin
+34,Computer Science,Programming,Which keyword is used to create a class in Java? (v4),function,define,class,new,class,admin
+35,Literature,Poetry,Who wrote 'The Raven'? (v4),Robert Frost,William Shakespeare,Edgar Allan Poe,Emily Dickinson,Edgar Allan Poe,admin
+36,Math,Geometry,What is the sum of interior angles of a triangle? (v4),90ï¿,180ï¿,270ï¿,360ï¿,180ï¿,admin
+37,Science,Chemistry,What is the chemical symbol for Gold? (v4),Au,Ag,Fe,Gd,Au,admin
+38,History,Modern,In which year did World War II end? (v4),1943,1944,1945,1946,1945,admin
+39,Computer Science,Networks,What does 'IP' stand for in networking? (v4),Internet Provider,Internet Protocol,Internal Protocol,Interface Protocol,Internet Protocol,admin
+40,Literature,Drama,Who is the tragic hero in Shakespeare's 'Macbeth'? (v4),Hamlet,Othello,Macbeth,Lear,Macbeth,admin
+41,Math,Algebra,What is the value of x in the equation 2x + 3 = 7? (v5),1,2,3,4,2,admin
+42,Science,Physics,What is the acceleration due to gravity on Earth? (v5),8.8 m/sï¿,9.8 m/sï¿,10.8 m/sï¿,7.8 m/sï¿,9.8 m/sï¿,admin
+43,History,Ancient,Who was the first emperor of Rome? (v5),Julius Caesar,Augustus,Nero,Caligula,Augustus,admin
+44,Computer Science,Programming,Which keyword is used to create a class in Java? (v5),function,define,class,new,class,admin
+45,Literature,Poetry,Who wrote 'The Raven'? (v5),Robert Frost,William Shakespeare,Edgar Allan Poe,Emily Dickinson,Edgar Allan Poe,admin
+46,Math,Geometry,What is the sum of interior angles of a triangle? (v5),90ï¿,180ï¿,270ï¿,360ï¿,180ï¿,admin
+47,Science,Chemistry,What is the chemical symbol for Gold? (v5),Au,Ag,Fe,Gd,Au,admin
+48,History,Modern,In which year did World War II end? (v5),1943,1944,1945,1946,1945,admin
+49,Computer Science,Networks,What does 'IP' stand for in networking? (v5),Internet Provider,Internet Protocol,Internal Protocol,Interface Protocol,Internet Protocol,admin
+50,Literature,Drama,Who is the tragic hero in Shakespeare's 'Macbeth'? (v5),Hamlet,Othello,Macbeth,Lear,Macbeth,admin
+51,Math,Algebra,What is the value of x in the equation 2x + 3 = 7? (v6),1,2,3,4,2,admin
+52,Science,Physics,What is the acceleration due to gravity on Earth? (v6),8.8 m/sï¿,9.8 m/sï¿,10.8 m/sï¿,7.8 m/sï¿,9.8 m/sï¿,admin
+53,History,Ancient,Who was the first emperor of Rome? (v6),Julius Caesar,Augustus,Nero,Caligula,Augustus,admin
+54,Computer Science,Programming,Which keyword is used to create a class in Java? (v6),function,define,class,new,class,admin
+55,Literature,Poetry,Who wrote 'The Raven'? (v6),Robert Frost,William Shakespeare,Edgar Allan Poe,Emily Dickinson,Edgar Allan Poe,admin
+56,Math,Geometry,What is the sum of interior angles of a triangle? (v6),90ï¿,180ï¿,270ï¿,360ï¿,180ï¿,admin
+57,Science,Chemistry,What is the chemical symbol for Gold? (v6),Au,Ag,Fe,Gd,Au,admin
+58,History,Modern,In which year did World War II end? (v6),1943,1944,1945,1946,1945,admin
+59,Computer Science,Networks,What does 'IP' stand for in networking? (v6),Internet Provider,Internet Protocol,Internal Protocol,Interface Protocol,Internet Protocol,admin
+60,Literature,Drama,Who is the tragic hero in Shakespeare's 'Macbeth'? (v6),Hamlet,Othello,Macbeth,Lear,Macbeth,admin
+61,Math,Algebra,What is the value of x in the equation 2x + 3 = 7? (v7),1,2,3,4,2,admin
+62,Science,Physics,What is the acceleration due to gravity on Earth? (v7),8.8 m/sï¿,9.8 m/sï¿,10.8 m/sï¿,7.8 m/sï¿,9.8 m/sï¿,admin
+63,History,Ancient,Who was the first emperor of Rome? (v7),Julius Caesar,Augustus,Nero,Caligula,Augustus,admin
+64,Computer Science,Programming,Which keyword is used to create a class in Java? (v7),function,define,class,new,class,admin
+65,Literature,Poetry,Who wrote 'The Raven'? (v7),Robert Frost,William Shakespeare,Edgar Allan Poe,Emily Dickinson,Edgar Allan Poe,admin
+66,Math,Geometry,What is the sum of interior angles of a triangle? (v7),90ï¿,180ï¿,270ï¿,360ï¿,180ï¿,admin
+67,Science,Chemistry,What is the chemical symbol for Gold? (v7),Au,Ag,Fe,Gd,Au,admin
+68,History,Modern,In which year did World War II end? (v7),1943,1944,1945,1946,1945,admin
+69,Computer Science,Networks,What does 'IP' stand for in networking? (v7),Internet Provider,Internet Protocol,Internal Protocol,Interface Protocol,Internet Protocol,admin
+70,Literature,Drama,Who is the tragic hero in Shakespeare's 'Macbeth'? (v7),Hamlet,Othello,Macbeth,Lear,Macbeth,admin
+71,Math,Algebra,What is the value of x in the equation 2x + 3 = 7? (v8),1,2,3,4,2,admin
+72,Science,Physics,What is the acceleration due to gravity on Earth? (v8),8.8 m/sï¿,9.8 m/sï¿,10.8 m/sï¿,7.8 m/sï¿,9.8 m/sï¿,admin
+73,History,Ancient,Who was the first emperor of Rome? (v8),Julius Caesar,Augustus,Nero,Caligula,Augustus,admin
+74,Computer Science,Programming,Which keyword is used to create a class in Java? (v8),function,define,class,new,class,admin
+75,Literature,Poetry,Who wrote 'The Raven'? (v8),Robert Frost,William Shakespeare,Edgar Allan Poe,Emily Dickinson,Edgar Allan Poe,admin
+76,Math,Geometry,What is the sum of interior angles of a triangle? (v8),90ï¿,180ï¿,270ï¿,360ï¿,180ï¿,admin
+77,Science,Chemistry,What is the chemical symbol for Gold? (v8),Au,Ag,Fe,Gd,Au,admin
+78,History,Modern,In which year did World War II end? (v8),1943,1944,1945,1946,1945,admin
+79,Computer Science,Networks,What does 'IP' stand for in networking? (v8),Internet Provider,Internet Protocol,Internal Protocol,Interface Protocol,Internet Protocol,admin
+80,Literature,Drama,Who is the tragic hero in Shakespeare's 'Macbeth'? (v8),Hamlet,Othello,Macbeth,Lear,Macbeth,admin
+81,Math,Algebra,What is the value of x in the equation 2x + 3 = 7? (v9),1,2,3,4,2,admin
+82,Science,Physics,What is the acceleration due to gravity on Earth? (v9),8.8 m/sï¿,9.8 m/sï¿,10.8 m/sï¿,7.8 m/sï¿,9.8 m/sï¿,admin
+83,History,Ancient,Who was the first emperor of Rome? (v9),Julius Caesar,Augustus,Nero,Caligula,Augustus,admin
+84,Computer Science,Programming,Which keyword is used to create a class in Java? (v9),function,define,class,new,class,admin
+85,Literature,Poetry,Who wrote 'The Raven'? (v9),Robert Frost,William Shakespeare,Edgar Allan Poe,Emily Dickinson,Edgar Allan Poe,admin
+86,Math,Geometry,What is the sum of interior angles of a triangle? (v9),90ï¿,180ï¿,270ï¿,360ï¿,180ï¿,admin
+87,Science,Chemistry,What is the chemical symbol for Gold? (v9),Au,Ag,Fe,Gd,Au,admin
+88,History,Modern,In which year did World War II end? (v9),1943,1944,1945,1946,1945,admin
+89,Computer Science,Networks,What does 'IP' stand for in networking? (v9),Internet Provider,Internet Protocol,Internal Protocol,Interface Protocol,Internet Protocol,admin
+90,Literature,Drama,Who is the tragic hero in Shakespeare's 'Macbeth'? (v9),Hamlet,Othello,Macbeth,Lear,Macbeth,admin
+91,Math,Algebra,What is the value of x in the equation 2x + 3 = 7? (v10),1,2,3,4,2,admin
+92,Science,Physics,What is the acceleration due to gravity on Earth? (v10),8.8 m/sï¿,9.8 m/sï¿,10.8 m/sï¿,7.8 m/sï¿,9.8 m/sï¿,admin
+93,History,Ancient,Who was the first emperor of Rome? (v10),Julius Caesar,Augustus,Nero,Caligula,Augustus,admin
+94,Computer Science,Programming,Which keyword is used to create a class in Java? (v10),function,define,class,new,class,admin
+95,Literature,Poetry,Who wrote 'The Raven'? (v10),Robert Frost,William Shakespeare,Edgar Allan Poe,Emily Dickinson,Edgar Allan Poe,admin
+96,Math,Geometry,What is the sum of interior angles of a triangle? (v10),90ï¿,180ï¿,270ï¿,360ï¿,180ï¿,admin
+97,Science,Chemistry,What is the chemical symbol for Gold? (v10),Au,Ag,Fe,Gd,Au,admin
+98,History,Modern,In which year did World War II end? (v10),1943,1944,1945,1946,1945,admin
+99,Computer Science,Networks,What does 'IP' stand for in networking? (v10),Internet Provider,Internet Protocol,Internal Protocol,Interface Protocol,Internet Protocol,admin
+100,Literature,Drama,Who is the tragic hero in Shakespeare's 'Macbeth'? (v10),Hamlet,Othello,Macbeth,Lear,Macbeth,admin
+a,b,c,d,e,f,g,h
+a,b,c,d,e,f,g,h
