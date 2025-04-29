@@ -12,12 +12,14 @@ public class CsvHandler {
 
     public static List<List<String>> read(String filePath) {
         List<List<String>> content = new ArrayList<>();
+
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
             String line;
             while ((line = br.readLine()) != null) {
-                String[] row = line.split(",");
+                // Split line by commas, but handle quoted values
                 List<String> rowList = new ArrayList<>();
-                for (String column : row) {
+                String[] columns = splitLine(line);
+                for (String column : columns) {
                     rowList.add(column);
                 }
                 content.add(rowList);
@@ -36,6 +38,31 @@ public class CsvHandler {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    private static String[] splitLine(String line) {
+        List<String> columns = new ArrayList<>();
+        StringBuilder currentField = new StringBuilder();
+        boolean insideQuotes = false;
+        char[] chars = line.toCharArray();
+
+        for (char c : chars) {
+            if (c == '"') {
+                // Toggle the state of being inside quotes
+                insideQuotes = !insideQuotes;
+            } else if (c == ',' && !insideQuotes) {
+                // If we encounter a comma outside quotes, add the current field to the list
+                columns.add(currentField.toString().trim());
+                currentField = new StringBuilder();  // Reset the current field
+            } else {
+                // Otherwise, just add the character to the current field
+                currentField.append(c);
+            }
+        }
+        // Add the last field after finishing the line
+        columns.add(currentField.toString().trim());
+
+        return columns.toArray(new String[0]);
     }
 
 }
