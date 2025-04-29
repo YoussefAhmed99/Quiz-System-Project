@@ -9,6 +9,10 @@ public class ConsoleHandler {
         return scanner.nextLine();
     }
 
+    public static Integer getNextInt() {
+        return scanner.nextInt();
+    }
+
     public static void closeScanner() {
         if (scanner != null) {
             scanner.close();
